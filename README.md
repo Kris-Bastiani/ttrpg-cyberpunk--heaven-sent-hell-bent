@@ -1,6 +1,6 @@
 # TTRPG Wiki: "Heaven Sent / Hell Bent"
 
-Deployed URL: TBD
+Deployed URL: https://kris-bastiani.github.io/ttrpg-cyberpunk--heaven-sent-hell-bent/
 
 Wiki for the setting of a Cyberpunk TTRPG campaign I'm going to run, published using Quartz.
 
