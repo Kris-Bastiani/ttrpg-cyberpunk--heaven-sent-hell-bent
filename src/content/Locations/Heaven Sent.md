@@ -1,0 +1,1 @@
+The upper class of the two cities or "spheres". Pristine and stylish it may be, but rest assured- it is no less prone to crime than [[Hell Bent]]- many would argue it's worse; they just have the power to make it legal.

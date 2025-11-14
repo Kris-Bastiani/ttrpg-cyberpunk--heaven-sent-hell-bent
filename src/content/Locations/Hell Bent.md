@@ -1,0 +1,1 @@
+The lower class of the two cities or "spheres". Colourful, grimy, sometimes cheerful, sometimes dangerous. It is home to a broad spectrum, from cheerful and community focused to deeply rooted organised crime.
