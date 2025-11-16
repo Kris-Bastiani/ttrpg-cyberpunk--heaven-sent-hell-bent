@@ -1,0 +1,1 @@
+Essentially the same as real-world Interpol.

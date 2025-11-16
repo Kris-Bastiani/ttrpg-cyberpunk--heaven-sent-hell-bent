@@ -1,0 +1,3 @@
+The accepted status quo is that even when direct corruption is not involved (although it often is), the police's primary function is to protect the property and interests of the wealthy and powerful- mainly meaning corporations.
+
+There are still occasionally naïve and/or delusional members of the force who harbour ideals of upholding justice, or at least who believe they can change the system from the inside.

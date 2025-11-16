@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Spheres.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Spheres"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +171,21 @@
   },
   "active": "b5ae9d4710c76915",
   "lastOpenFiles": [
+    "Factions/Vikiraṇasoft.md",
+    "Factions/Universal Media Network (UMN).md",
+    "Factions/TelPrime.md",
+    "Factions/Shiwayama.md",
+    "Factions/Nimbasa Pharmaceuticals Ltd.md",
+    "Factions/Mlimi na Magombo World Bank.md",
+    "Factions/Metro Police.md",
+    "Factions/Massa-Carrara.md",
+    "Factions/Interpol.md",
+    "Factions/Faust Kybernetik.md",
+    "Factions/Chìhn Tòu - Jidoja.md",
+    "Factions/Caliban Ordnance.md",
+    "Factions/Bastille Day.md",
+    "Factions/Armbrüster.md",
+    "Locations/The Spheres.md",
     "Locations/Hell Bent.md",
     "Locations/Heaven Sent.md",
     "index.md",
